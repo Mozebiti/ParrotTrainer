@@ -14,10 +14,6 @@ body {
 	line-height: 1;	
 	overflow-x: hidden;
 }
-/*# {
-	margin:0px;
-	padding:0px;
-}*/
 Header {
 	position: fixed; 
     top: 0; 
